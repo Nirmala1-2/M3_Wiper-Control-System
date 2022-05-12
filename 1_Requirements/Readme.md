@@ -13,22 +13,22 @@
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
 
 # | 5W's & 1H | 
-*__What__   
--- wiper control system (WCS) 
+* What   
+ wiper control system (WCS) 
 
-*__Where__ 
---Inside and out side the car 
+* Where 
+Inside and out side the car 
 
-*__When__   
---When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
+* When   
+When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
 
-*__Who__  
---Who is driving or controlling the car 
+* Who  
+Who is driving or controlling the car 
 
-*__How__   
---By using STM like by multiple pushes on a button
+* How   
+By using STM like by multiple pushes on a button
 
-# | S.W.O.T ANALYSIS | 
+# | SWOT ANALYSIS | 
 
 __Strengths__ 
 
