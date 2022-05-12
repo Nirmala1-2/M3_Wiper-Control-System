@@ -14,10 +14,9 @@
 
 # | 5W's & 1H | 
  __What__  
- wiper control system (WCS) 
+wiper control system (WCS) 
 
-__Where__ 
-
+ __Where__ 
 Inside and out side the car 
 
 __When__   
