@@ -9,6 +9,7 @@
  * When the button is pressed again the wiper will start(__Wiper On__)
  * When the button is pressed again the wiper will off(__Wiper Off__)
  * When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
+ ---
 
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
 
