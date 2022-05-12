@@ -46,7 +46,6 @@ __Weaknesses__
 __Opportunities__
 
 * The Scope of this sytem is huge in automation or car control
-
 * Less cost
 
 __Threats__
