@@ -17,7 +17,7 @@
 wiper control system (WCS) 
 
  __Where__ 
- Inside and outside the car
+                                    Inside and outside the car
 
 __When__   
 When the weather condition is bad (like in rain and snow) the wiper is activate and clean the car window 
