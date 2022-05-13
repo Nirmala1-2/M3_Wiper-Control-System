@@ -4,4 +4,4 @@
 https://api.codiga.io/project/33414/score/svg
 
 # CODE GRADE
-https://api.codiga.io/project/33414/status/svg
+https://api.codiga.io/project/33414/status/svg 
