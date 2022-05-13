@@ -3,11 +3,11 @@
  * we are trying to simulate this project on stmcube 32 IDE
 
 # COMPONENTS AND SUPPLIES:
-1. STM32F407 Discovery Board
-2. Push Button
-3. LEDs
-4. Resistors
-5. Power Supply
+* STM32F407 Discovery Board
+* Push Button
+* LEDs
+* Resistors
+* Power Supply
 
 # ADVANTAGES:
 * To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
