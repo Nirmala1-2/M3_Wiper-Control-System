@@ -5,7 +5,7 @@
  * we are trying to simulate this project on stmcube 32 IDE
 
 ## 1.2 Features:
-1.Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency. State A, RED led will be ON
+1.Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency. State A, RED led will be ON.
 2.Simple circuit design and easy to understand.
 
  ---
