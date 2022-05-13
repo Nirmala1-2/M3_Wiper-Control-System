@@ -6,6 +6,7 @@
 
 ## 1.2 Features:
 1.Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency. State A, RED led will be ON.
+
 2.Simple circuit design and easy to understand.
 
  ---
