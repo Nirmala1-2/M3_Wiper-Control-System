@@ -1,4 +1,4 @@
-# High Level Test Cases
+# HIGH LEVEL TEST CASES
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS | 
 | --------|:------------|:--------|:--------|:-----------|:-------------| 
 | 1 | check if the BUTTTON is pressed | program execution | Microcontroller/Engine starts | LED ON(RED)| PASS | 
@@ -7,7 +7,7 @@
 | 4 | check if the BUTTTON is pressed | program execution | WIPER starts | LED ON(ORANGE)| PASS | 
 | 5 | check if the BUTTTON is pressed | - | Microcontroller/Engine stops | LED TURNED OFF| PASS | 
 
-# LOW LEVEL TEST CASE
+# LOW LEVEL TEST CASES
  | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS | 
  | --------|:------------|:--------|:--------|:-----------|:-------------| 
  | 1 | check if the BUTTTON is pressed | program execution | Microcontroller/Engine starts | LED ON(RED)| PASS |
