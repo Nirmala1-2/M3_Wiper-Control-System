@@ -1,19 +1,18 @@
 # Requriments
 
-## Description
+## Introduction
  * This Project is an __Wiper control (WCS) system__,a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
  * we are trying to simulate this project on stmcube 32 IDE
 
-## Identifying features
- * When the button is pressed once the car will start (__Ignition key postion at ACC__)
- * When the button is pressed again the wiper will start(__Wiper On__)
- * When the button is pressed again the wiper will off(__Wiper Off__)
- * When the button is pressed thrice the car will stop(__Ignition key position at Lock__)
+## 1.2 Features:
+1.Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency. State A, RED led will be ON
+2.Simple circuit design and easy to understand.
+
  ---
 
-## 5W's & 1H and S.W.O.T analysis is in the below table 
+## 4W's & 1H and S.W.O.T analysis is in the below table 
 
-# | 5W's & 1H | 
+# | 4W's & 1H | 
  __What__  
 wiper control system (WCS) 
 
