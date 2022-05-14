@@ -15,3 +15,6 @@
 
 # Build on Windows
 [![Build CI - Windows](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/Build-Windows.yml)
+
+# Build on Linux
+[![Build CI -Linux](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/Build_Linux.yml)
