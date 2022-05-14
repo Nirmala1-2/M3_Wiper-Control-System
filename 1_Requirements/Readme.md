@@ -10,7 +10,7 @@
 
  ---
 
-## 4W's & 1H and S.W.O.T analysis is in the below table 
+## 4W's & 1H and SWOT analysis is in the below table 
 
 # | 4W's & 1H | 
  __What__  
