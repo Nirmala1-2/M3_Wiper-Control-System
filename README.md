@@ -19,5 +19,6 @@
 # Build on Linux
 [![Build CI -Linux](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/Build_Linux.yml)
 
-# cppchecl Action
+# CPPcheck Action
+[![cppcheck-action](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nirmala1-2/M3_Wiper-Control-System/actions/workflows/cppcheck.yml)
 
