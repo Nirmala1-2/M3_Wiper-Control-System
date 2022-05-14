@@ -1,5 +1,3 @@
-
-
 #define GPIOD_BASE_ADDR 0x40020C00
 #define GPIOD_ODR_OFFSET 0x14
 #define GPIOD_ODR *(volatile long *)(GPIOD_BASE_ADDR + GPIOD_ODR_OFFSET)
